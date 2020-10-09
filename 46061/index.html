@@ -352,8 +352,6 @@
         
           <a href="#comment-tab0" class="mdui-ripple">gitalk</a>
         
-          <a href="#comment-tab1" class="mdui-ripple">livere</a>
-        
       </div>
       
         <div id="comment-tab0" class="mdui-p-a-2">
@@ -363,32 +361,16 @@
 <script src="//cdn.jsdelivr.net/npm/js-md5@0.7.3/src/md5.min.js"></script>
 <script>
   var gitalk = new Gitalk({
-    clientID: '',
-    clientSecret: '',
-    repo: '',
-    owner: '',
-    admin: [''],
+    clientID: '8e90764d8656f69398da',
+    clientSecret: '08fa8d3674b1c0d5ca2eab93c021d5d05641e512',
+    repo: 'seanaristotle.github.io',
+    owner: 'seanaristotle',
+    admin: ['seanaristotle'],
     id:  md5(location.pathname) ,
     distractionFreeMode: 'true',
   });
   gitalk.render('gitalk-container');
 </script>
-        </div>
-      
-        <div id="comment-tab1" class="mdui-p-a-2">
-          <div id="lv-container" data-id="city" data-uid="">
-  <script type="text/javascript">
-    (function (d, s) {
-      var j, e = d.getElementsByTagName(s)[0];
-      if (typeof LivereTower === 'function') { return; }
-      j = d.createElement(s);
-      j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-      j.async = true;
-      e.parentNode.insertBefore(j, e);
-    })(document, 'script');
-  </script>
-  <noscript>Please enable JavaScript to view the comments powered by LiveRe.</noscript>
-</div>
         </div>
       
     </div>
