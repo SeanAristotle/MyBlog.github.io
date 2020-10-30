@@ -1,47 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/16107/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>baldhead-experience</category>
-      </categories>
-      <tags>
-        <tag>凑数的</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>扬帆，起航！</title>
-    <url>/7611/</url>
-    <content><![CDATA[<h1 id="全新的开始"><a href="#全新的开始" class="headerlink" title="全新的开始"></a><center>全新的开始</center></h1><p>​       经过一系列的努力和忙碌，似乎一切都以尘埃落定。万万没想到，从计算机到电磁竟然还是没有逃出算法的手掌心。本来都想放弃算法和博客了，但是看到一个同是计算机到电磁的大佬写的博客，我也想为不管有意还是巧合而跨专业的探探路。（我去前面探探路！！！）虽然现在再写算法已经没有什么利益驱动了，就当是偶尔练练脑子，防止老年痴呆了。<strong>不忘初心，方得始终</strong> 想想2017年我们一起别无他想专心写代码的样子，心里真是羡慕的紧。现在回想一下，能够心无杂念的写写代码也是一种幸福。</p>
-<a id="more"></a>
-
-<p>​        废物了好久了，不想再把博客变成励志的技术东东，还是希望把自己的博客经营成一碗久违了的鸡汤，可以喝一喝，但是还是要认识现实的苦涩与忙碌。希望自己能在首都安安稳稳、稳扎稳打的</p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>  期望自己能够在忙碌中找点时间继续安心的写写代码，做做博客。最后安利一下我自己的博客<a href="https://seanaristotle.github.io/">欢迎来访</a>。</p>
-]]></content>
-      <categories>
-        <category>program-life</category>
-      </categories>
-      <tags>
-        <tag>生活感悟</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>POJ1321</title>
     <url>/46061/</url>
     <content><![CDATA[<h1 id="POJ1321棋盘问题"><a href="#POJ1321棋盘问题" class="headerlink" title="POJ1321棋盘问题"></a>POJ1321棋盘问题</h1><h2 id="题目描述："><a href="#题目描述：" class="headerlink" title="题目描述："></a>题目描述：</h2><p>  在一个给定形状的棋盘（形状可能是不规则的）上面摆放棋子，棋子没有区别。要求摆放时任意的两个棋子不能放在棋盘中的同一行或者同一列，请编程求解对于给定形状和大小的棋盘，摆放k个棋子的所有可行的摆放方案C。</p>
@@ -130,7 +89,7 @@
       </tags>
   </entry>
   <entry>
-    <title>uva572</title>
+    <title>uva572 Oil Deposits</title>
     <url>/47450/</url>
     <content><![CDATA[<h1 id="UVA572-Oil-Deposits"><a href="#UVA572-Oil-Deposits" class="headerlink" title="UVA572 Oil Deposits"></a>UVA572 Oil Deposits</h1><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>  The GeoSurvComp geologic survey company is responsible for detecting underground oil deposits.<br>GeoSurvComp works with one large rectangular region of land at a time, and creates a grid that divides the land into numerous square plots. It then analyzes each plot separately, using sensing equipment to determine whether or not the plot contains oil.<br>题目意思很简单，就是说图像中@符号不管是横这竖着斜着，只要连着，就是一片油田，问一共有多少油田。</p>
 <a id="more"></a>
@@ -168,6 +127,92 @@
       <tags>
         <tag>最大流</tag>
         <tag>网络流</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和github搭建个人博客</title>
+    <url>/16107/</url>
+    <content><![CDATA[<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a>一、准备工作</h1><p>1.github账号</p>
+<p>2.git for Windows</p>
+<p>3.node.js</p>
+<p>4.npm</p>
+<h2 id="Github账号"><a href="#Github账号" class="headerlink" title="Github账号"></a>Github账号</h2><p>​       Github 仓库是你博客存储的地方，是构建博客的起点，点击<a href="https://github.com/">这里</a>去官网注册一个就好了。</p>
+<h2 id="Git-for-windows"><a href="#Git-for-windows" class="headerlink" title="Git for windows"></a>Git for windows</h2><p>​       Git for Windows是用来将你的博客生成并部署到github上，当然在其他步骤中它的作用也不可或缺。但是Git for Windows.   国内直接从<a href="http://git-scm.com/download/win">官网</a>下载比较困难，需要翻墙。<a href="https://github.com/Sjj1024/Git-win.git">这里</a>提供一个国内的下载站，方便网友下载。</p>
+<h2 id="node-js和npm"><a href="#node-js和npm" class="headerlink" title="node.js和npm"></a>node.js和npm</h2><p>​       <a href="https://nodejs.org/en/download/">官网</a>下载适合你的node.js，推荐下载.msi文件，因为.msi文件可以自动帮你配置环境变量，省时方便，何乐而不为呢（<font color=#FF0000>但是这里要注意以管理员身份运行，不然会因没有权限更改环境变量而出现the error code is 2502，the error code is 2503</font>）点<a href="https://jingyan.baidu.com/article/6f2f55a15bf1d3b5b93e6c03.html">这里</a>学会如何以管理员身份运行.msi文件。最新版的node.js已经集成了npm，所以不需要额外安装npm。安装完成后可以运行Git Bush，在其中输入：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
+
+<p>出现相应版本号即安装成功。</p>
+<p>为了能有一个更好的下载体验，建议将将npm的注册表源设置为国内的镜像。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#获得原来的镜像地址</span><br><span class="line">npm get registry</span><br><span class="line">#设置为淘宝镜像</span><br><span class="line">npm config set registry http:&#x2F;&#x2F;registry.npm.taobao.org&#x2F;</span><br><span class="line">#换成原来的</span><br><span class="line">npm config set registry https:&#x2F;&#x2F;registry.npmjs.org&#x2F;</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="二、创建GitHub博客仓库"><a href="#二、创建GitHub博客仓库" class="headerlink" title="二、创建GitHub博客仓库"></a>二、创建GitHub博客仓库</h1><p>1.创建仓库</p>
+<p>2.配置SSH key</p>
+<h2 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h2><p>​      这一步登录你的github后，创建一个与你github重名的仓库，这里注意，此处只能创建与你github用户名一样的用户名，比如我的github用户名是SeanAristotle，那我的仓库名一定要是这个，等后续工作完成后，只需要打开:   <a href="https://seanaristotle.github.io/">https://seanaristotle.github.io</a> 就可以看到我的博客了。创建仓库需要一定的时间，大约需要半个小时，耐心等待即可。</p>
+<h2 id="配置SSH-Key"><a href="#配置SSH-Key" class="headerlink" title="配置SSH Key"></a>配置SSH Key</h2><p>首先，先确定你是否有SSH Key，打开你的用户根目录，看看是否有.ssh这个文件夹，文件夹下是否有id_rsa和id_rsa.pub这两个文件。</p>
+<img src="D:\Git\blog\source\images\ssh位置.png" style="zoom:50%;" />
+
+<p>如果没有，就需要打开刚刚装好的Git Bush，输入下面的代码来创建(xxxx部分就是你的邮件地址)</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;xxxx@xxx.com&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后，将SSH Key加到你的github中就可以了，</p>
+<h1 id="三、安装并使用Hexo"><a href="#三、安装并使用Hexo" class="headerlink" title="三、安装并使用Hexo"></a>三、安装并使用Hexo</h1><p>1.安装Hexo</p>
+<p>2.初始化</p>
+<p>3.部署到GitHub</p>
+<p>4.大功告成，写博客</p>
+<h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>这步so easy，打开你的Git Bush 输入：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo</span><br></pre></td></tr></table></figure>
+
+<p>OK，这一步基本完成，如果出现： command not found: hexo可以参考<a href="https://www.jianshu.com/p/1851395f1f5f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation">这里</a></p>
+<h2 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h2><p>在电脑中选择一部分空间作为你博客的存储空间，然后打开Git Bush，进入这个目录，（如，我的文件目录是D:/Git/blog）</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># 进入目录</span><br><span class="line">cd D:&#x2F;Git&#x2F;blog</span><br><span class="line"># 初始化</span><br><span class="line">hexo init</span><br><span class="line"># 生成</span><br><span class="line">hexo g</span><br><span class="line"># 启动</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>稍作等待，打开浏览器，访问<a href="http://localhost:4000就可以看到你的博客啦。如果4000这个端口被占用了，可以参考[这里](https://blog.csdn.net/Quincylk/article/details/8260309)来取舍到底哪个端口换一下。">http://localhost:4000就可以看到你的博客啦。如果4000这个端口被占用了，可以参考[这里](https://blog.csdn.net/Quincylk/article/details/8260309)来取舍到底哪个端口换一下。</a></p>
+<h2 id="部署到GitHub"><a href="#部署到GitHub" class="headerlink" title="部署到GitHub"></a>部署到GitHub</h2><p>首先，到你的博客根目录中的_config.yml文件中，修改deploy部分</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">    type: git </span><br><span class="line">    repo: git@github.com:SeanAristotle&#x2F;SeanAristotle.github.io.git</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure>
+
+<p>这里好像有点问题，但是不确定，等出现有人问问题再填坑吧！</p>
+<p>然后打开Git Bush，安装插件</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git</span><br></pre></td></tr></table></figure>
+
+<p>最后只要使用下面命令部署到github上就OK了。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo d </span><br></pre></td></tr></table></figure>
+
+<h2 id="大功告成，写博客"><a href="#大功告成，写博客" class="headerlink" title="大功告成，写博客"></a>大功告成，写博客</h2><p>这下，你就可以开始写博客了，初始化时生成了个hello Hexo，里面有快捷指令的用法，然后就可以写博客了。</p>
+<p>其实，只要记住三个命令就可以基本操作了：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#创建新博客</span><br><span class="line">hexo new xxx</span><br><span class="line">#本地浏览</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br><span class="line">hexo s -g    # 一句顶上面两句</span><br><span class="line">#上传部署到github</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br><span class="line">hexo d -g     #同理</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>推荐一下我的Markdown编辑器<a href="https://typora.io/">Typora</a>,感觉超级好用。</p>
+<h1 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a>四、总结</h1><p>​      关于主题，不建议不懂前端没有网页基础的人上来就搞，有这个时间多写两篇博客它不香吗？</p>
+<p>​       希望自己有时间多写写，不管干什么，多学习，多总结总会有收获的。</p>
+<h2 id="参考-amp-感谢"><a href="#参考-amp-感谢" class="headerlink" title="参考&amp;感谢"></a>参考&amp;感谢</h2><h3 id="包含但不限于文中链接和以下内容："><a href="#包含但不限于文中链接和以下内容：" class="headerlink" title="包含但不限于文中链接和以下内容："></a>包含但不限于文中链接和以下内容：</h3><p><a href="https://www.cnblogs.com/debugxw/p/11006734.html">https://www.cnblogs.com/debugxw/p/11006734.html</a></p>
+<p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E4%B8%8A%E4%BC%A0%E5%88%B0github">https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html#%E4%B8%8A%E4%BC%A0%E5%88%B0github</a></p>
+<p><a href="https://garybear.cn/hexo-theme-meadow/doc/#/">https://garybear.cn/hexo-theme-meadow/doc/#/</a></p>
+]]></content>
+      <categories>
+        <category>baldhead-experience</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>扬帆，起航！</title>
+    <url>/7611/</url>
+    <content><![CDATA[<h1 id="全新的开始"><a href="#全新的开始" class="headerlink" title="全新的开始"></a><center>全新的开始</center></h1><p>​       经过一系列的努力和忙碌，似乎一切都以尘埃落定。万万没想到，从计算机到电磁竟然还是没有逃出算法的手掌心。本来都想放弃算法和博客了，但是看到一个同是计算机到电磁的大佬写的博客，我也想为不管有意还是巧合而跨专业的探探路。（我去前面探探路！！！）虽然现在再写算法已经没有什么利益驱动了，就当是偶尔练练脑子，防止老年痴呆了。<strong>不忘初心，方得始终</strong> 想想2017年我们一起别无他想专心写代码的样子，心里真是羡慕的紧。现在回想一下，能够心无杂念的写写代码也是一种幸福。</p>
+<a id="more"></a>
+
+<p>​        废物了好久了，不想再把博客变成励志的技术东东，还是希望把自己的博客经营成一碗久违了的鸡汤，可以喝一喝，但是还是要认识现实的苦涩与忙碌。希望自己能在首都安安稳稳、稳扎稳打的生活下去，不要被这个城市遗忘。</p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>​        生活感悟只有鸡汤，如何搭建的明天秃头经历里慢慢写。</p>
+<p>​       期望自己能够在忙碌中找点时间继续安心的写写代码，做做博客。最后安利一下我自己的博客<a href="https://seanaristotle.github.io/">欢迎来访</a>。</p>
+]]></content>
+      <categories>
+        <category>program-life</category>
+      </categories>
+      <tags>
+        <tag>生活感悟</tag>
       </tags>
   </entry>
 </search>
